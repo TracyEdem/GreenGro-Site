@@ -1,0 +1,27 @@
+.heading{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.row{
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+
+.copyright{
+    text-align: center;
+    color: rgb(231, 247, 244);
+}
+
+.footer{
+    background: rgb(83, 79, 79);
+    padding-bottom: 20px;
+}
+.contact{
+    color: rgb(231, 247, 244);
+}
+.links{
+    color: rgb(231, 247, 244);
+}
+
+

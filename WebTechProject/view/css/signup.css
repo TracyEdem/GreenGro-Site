@@ -1,0 +1,41 @@
+.footer{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background: rgb(83, 79, 79);
+}
+.contact{
+    color: rgb(231, 247, 244);
+}
+.links{
+    color: rgb(231, 247, 244);
+}
+
+.copyright{
+    text-align: center;
+    color: rgb(231, 247, 244);
+}
+
+.formbody{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.form-control{
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    padding: 10px;
+    font-size: 16px;
+    width: 400px;
+}
+
+button[type="submit"] {
+ width: 150px;
+}
+
+.signup{
+    width: 100%;
+  max-width: 400px;
+  padding: 15px;
+  margin: auto;
+}

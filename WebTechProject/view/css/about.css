@@ -1,0 +1,25 @@
+.footer{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background: rgb(83, 79, 79);
+}
+.contact{
+    color: rgb(231, 247, 244);
+}
+.links{
+    color: rgb(231, 247, 244);
+}
+
+.copyright{
+    text-align: center;
+    color: rgb(231, 247, 244);
+}
+p{
+    text-align: justify;
+    font-size: large;
+}
+
+.aboutbody{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
